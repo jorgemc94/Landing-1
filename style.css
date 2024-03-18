@@ -1,0 +1,72 @@
+/*Contenedor principal*/
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 40px;
+    background-color: #FFF;
+}
+
+/*Content*/
+.content {
+    width: 50%;
+    height: 50%;
+    font-family: Avenir;
+}
+
+.content__title {
+    font-size: 40px;
+    color: #252525;
+}
+
+.content__description {
+    color: #252525 80%;
+}
+
+.button__explore {
+    padding: 15px;
+    background-color: #252525;
+    color: #FFF;
+    width: 100px;
+    border-radius: 10px;
+}
+
+/*Images*/
+
+.images {
+  
+}
+
+.image__negra {
+    
+}
+
+.image__blanca {
+    
+}
+
+/*List*/
+
+.list {
+    background-color: #252525;
+    border-radius: 50px;
+    width: 100%;
+}
+
+.list_content {
+}
+
+.list__article {
+
+}
+
+.nube {
+
+}
+
+.list__article__title {
+
+}
+
+.list__article__description {
+
+}
